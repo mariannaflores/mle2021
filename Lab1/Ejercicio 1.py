@@ -5,7 +5,6 @@ def triangulo_inv(n):
         for j in range(2*i-1):
             print('*',end=' ') 
         print()
- 
 
 triangulo_inv(4)
 triangulo_inv(5)
